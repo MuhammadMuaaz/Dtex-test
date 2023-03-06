@@ -1,0 +1,1 @@
+msiexec /i DtexEndpointCollector_Windows_Desktop_6.msi /qn ADDRESS=receiver.afiniti.dtexservices.com:443
